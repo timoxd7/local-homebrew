@@ -17,3 +17,11 @@ Just use the following manually or in your .zshrc... file
 ```sh
 source activate.sh
 ```
+
+## Parameter
+
+Run the following to not use git clone, but directly download an archive:
+
+```sh
+source install-local-homebrew.sh -a
+```
